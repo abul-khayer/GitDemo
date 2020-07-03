@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="37" started-at="2020-07-03T21:30:51Z" finished-at="2020-07-03T21:30:51Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="37" started-at="2020-07-03T21:30:51Z" finished-at="2020-07-03T21:30:51Z">
+      <class name="com.amazon.qa.testcases.HomePageTest">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.amazon.qa.testcases.HomePageTest@2d6e8792]" name="test1" duration-ms="7" started-at="2020-07-03T21:30:51Z" finished-at="2020-07-03T21:30:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- com.amazon.qa.testcases.HomePageTest -->
+      <class name="com.amazon.qa.testcases.SearchPageTest">
+        <test-method status="PASS" signature="test3()[pri:0, instance:com.amazon.qa.testcases.SearchPageTest@2acf57e3]" name="test3" duration-ms="0" started-at="2020-07-03T21:30:51Z" finished-at="2020-07-03T21:30:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+      </class> <!-- com.amazon.qa.testcases.SearchPageTest -->
+      <class name="com.amazon.qa.testcases.LoginPageTest">
+        <test-method status="PASS" signature="test2()[pri:0, instance:com.amazon.qa.testcases.LoginPageTest@2812cbfa]" name="test2" duration-ms="0" started-at="2020-07-03T21:30:51Z" finished-at="2020-07-03T21:30:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+      </class> <!-- com.amazon.qa.testcases.LoginPageTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
